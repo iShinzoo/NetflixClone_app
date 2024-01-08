@@ -52,7 +52,7 @@ class MainActivity : ComponentActivity() {
                 addMovieList(movieType = "Watch It Again")
                 addMovieList(movieType = "Latest Movies")
                 addMovieList(movieType = "Action Movies")
-                addMovieList(movieType = "Horror Movies")
+                addMovieList(movieType = "Cartoon")
                 addMovieList(movieType = "Bollowood Movies")
                 addMovieList(movieType = "HollyWood Movies")
             }
